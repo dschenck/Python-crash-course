@@ -5,8 +5,10 @@ These are class notes from a Python crash course I teach to my friends and colle
 
 ## Table of contents
 ### Part 1: fundamentals of the language
+## Table of contents
+### Part 1: fundamentals of the language
 1. Introduction
-2. Installation and hello world
+2. Installation and `hello world`
 3. Primitive types
 4. Variables
 5. Conditional structures
@@ -21,13 +23,13 @@ These are class notes from a Python crash course I teach to my friends and colle
 14. Sets
 15. Reading from and writing to a file
 16. Exceptions
-17. The datetime package
-18. The random package
-19. Revisiting functions: args and kwargs
-20. The os package
-21. Creating and installing our own packages
-22. Creating our own data types
-23. Advanced object-oriented concepts: inheritence and magic methods
-24. The incredible power of regular expressions: the re package
-25. Decorators
-26. String formatting: beyond the str.format() method
+17. The `datetime` package
+18. The `random` package
+19. Revisiting functions: `*args` and `**kwargs`
+20. Decorators
+21. Creating our own data types
+22. Advanced object-oriented concepts: inheritence and magic methods
+23. The incredible power of regular expressions: the `re` package
+24. The `os` package
+25. Creating and installing our own packages
+26. String formatting: beyond the `str.format()` method
