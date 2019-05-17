@@ -5,8 +5,6 @@ These are class notes from a Python crash course I teach to my friends and colle
 
 ## Table of contents
 ### Part 1: fundamentals of the language
-## Table of contents
-### Part 1: fundamentals of the language
 1. Introduction
 2. Installation and `hello world`
 3. Primitive types
