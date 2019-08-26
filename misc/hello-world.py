@@ -1,0 +1,1 @@
+print("Hello and welcome to this crash course.")

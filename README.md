@@ -31,3 +31,6 @@ These are class notes from a Python crash course I teach to my friends and colle
 24. The `os` package
 25. Creating and installing our own packages
 26. String formatting: beyond the `str.format()` method
+
+### Part 2: applications
+1. Parsing `xml`
